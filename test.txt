@@ -3,3 +3,4 @@ test 4
 test 5
 test dev3
 test add a new dev
+test stash
